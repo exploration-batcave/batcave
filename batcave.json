@@ -17,6 +17,6 @@
         }
     ],
     "bundles": [
-        {"recon": ["SharpView", "SQLRecon"]},
+        {"recon": ["SharpView", "SQLRecon"]}
     ]
 }
