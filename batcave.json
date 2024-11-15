@@ -1,0 +1,22 @@
+{
+    "gadgets": [
+        {
+            "name": "Rubeus",
+            "url": "https://github.com/exploration-batcave/Rubeus",
+            "hash": ""
+        },
+        {
+            "name": "SharpView",
+            "url": "https://github.com/exploration-batcave/SharpView",
+            "hash": ""
+        },
+        {
+            "name": "SQLRecon",
+            "url": "https://github.com/exploration-batcave/SQLRecon",
+            "hash": ""
+        }
+    ],
+    "bundles": [
+        {"recon": ["SharpView", "SQLRecon"]},
+    ]
+}
