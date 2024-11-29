@@ -14,9 +14,19 @@
             "name": "SQLRecon",
             "url": "https://github.com/exploration-batcave/SQLRecon",
             "hash": ""
+        },
+        {
+            "name": "Seatbelt",
+            "url": "https://github.com/exploration-batcave/Seatbelt",
+            "hash": ""
+        },
+        {
+            "name": "mimikatz",
+            "url": "https://github.com/exploration-batcave/mimikatz",
+            "hash": ""
         }
     ],
     "bundles": [
-        {"recon": ["SharpView", "SQLRecon"]}
+        {"recon": ["SharpView", "SQLRecon", "Seatbelt"]}
     ]
 }
