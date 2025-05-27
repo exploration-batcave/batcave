@@ -34,7 +34,12 @@
             "name": "StandIn",
             "url": "https://github.com/exploration-batcave/StandIn",
             "hash": ""
-        } 
+        },
+        {
+            "name": "SharpDPAPI",
+            "url": "https://github.com/exploration-batcave/SharpDPAPI",
+            "hash": ""
+        }
     ],
     "bundles": [
         {"recon": ["SharpView", "SQLRecon", "Seatbelt", "SharpUp"]}
