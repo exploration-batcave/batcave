@@ -24,9 +24,19 @@
             "name": "mimikatz",
             "url": "https://github.com/exploration-batcave/mimikatz",
             "hash": ""
-        }
+        },
+        {
+            "name": "SharpUp",
+            "url": "https://github.com/exploration-batcave/SharpUp",
+            "hash": ""
+        },
+        {
+            "name": "StandIn",
+            "url": "https://github.com/exploration-batcave/StandIn",
+            "hash": ""
+        } 
     ],
     "bundles": [
-        {"recon": ["SharpView", "SQLRecon", "Seatbelt"]}
+        {"recon": ["SharpView", "SQLRecon", "Seatbelt", "SharpUp"]}
     ]
 }
